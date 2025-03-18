@@ -2,10 +2,6 @@
 
 Bem-vindo à documentação do <b>TechHelp-AI</b>! Aqui você encontrará todos os diagramas UML necessários para entender a arquitetura, os fluxos e os componentes do sistema. 💡
 
-<div style="text-align:center; margin: 20px 0;">
-  <img src="https://media.giphy.com/media/d2lm1n0LfC9p7pJX/giphy.gif" alt="TechHelp-AI Animation" width="300" />
-</div>
-
 ---
 
 ## 🚀 O que você vai encontrar?
