@@ -20,7 +20,7 @@ O projeto **TechHelp-AI** está sendo desenvolvido por uma equipe dedicada de pr
 ###  🧑‍🏫  Gabriel Arantes da Silva Soares
 - **Função**: Scrum Master & full stack Developer
 
-### 🧑‍💻 Kauã Castro da Silva
+### 🧑‍💼 Kauã Castro da Silva
 - **Função**: Product Owner 
 
 ### 🧑‍💻 Ruan Dias Nunes
@@ -29,7 +29,7 @@ O projeto **TechHelp-AI** está sendo desenvolvido por uma equipe dedicada de pr
 ### 🎨 Wesley Martins
 - **Função**: Designer
 
-### 🧑‍💼 Lucas
+### 🧑‍💻 Lucas
 - **Função**: Backend Developer
 ---
 
