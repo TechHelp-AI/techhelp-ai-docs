@@ -21,15 +21,15 @@ O projeto **TechHelp-AI** está sendo desenvolvido por uma equipe dedicada de pr
 - **Função**: Scrum Master & full stack Developer
 
 ### 🧑‍💻 Kauã Castro da Silva
-- **Função**: Frontend Developer
+- **Função**: Product Owner 
 
 ### 🧑‍💻 Ruan Dias Nunes
-- **Função**: Backend Developer 
+- **Função**: Frontend Developer
 
 ### 🎨 Wesley Martins
 - **Função**: Designer
 
 ### 🧑‍💼 Lucas
-- **Função**: Product Owner 
+- **Função**: Backend Developer
 ---
 
