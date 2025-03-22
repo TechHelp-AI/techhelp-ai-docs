@@ -17,11 +17,11 @@ Bem-vindo à documentação do **TechHelp-AI**! Aqui você encontrará todos os 
 
 O projeto **TechHelp-AI** está sendo desenvolvido por uma equipe dedicada de profissionais com habilidades diversificadas. Abaixo estão os membros da equipe, juntamente com suas funções e áreas de especialização:
 
-###  🧑‍🏫  Gabriel Arantes da Silva Soares
-- **Função**: Scrum Master & full stack Developer
-
 ### 🧑‍💼 Kauã Castro da Silva
 - **Função**: Product Owner 
+
+###  🧑‍🏫  Gabriel Arantes da Silva Soares
+- **Função**: Scrum Master & full stack Developer
 
 ### 🧑‍💻 Ruan Dias Nunes
 - **Função**: Frontend Developer
