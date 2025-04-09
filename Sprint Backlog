@@ -1,0 +1,38 @@
+Requisitos Funcionais
+  1.  Gerenciamento de Chamados - Usuários podem fazer o Cadastro de Chamados, consultar os chamados, atualizar os chamados e encerrar os chamados.
+	2.	Classificação Automática – O sistema prioriza chamados com base no histórico e complexidade.
+	3.	Encaminhamento Inteligente – O sistema direciona chamados ao técnico adequado.
+	4.	Sugestão de Soluções – A IA recomenda soluções antes do chamado ser aberto.
+	5.	Notificações – Usuários recebem alertas sobre mudanças no status do chamado.
+	6.	Relatórios – Administrador pode visualizar métricas de desempenho.
+
+Requisitos Não Funcionais 
+	1.	Acessibilidade – Disponível via navegador e dispositivos móveis.
+	2.	Segurança – Dados criptografados.
+	3.	Logs e Auditoria – Registro de todas as alterações nos chamados.
+  4.  Implementação de testes - Realizar testes para identificar novos erros e conseguir um sistema eficiente.
+  5.  Desenvolver em SQLserver o Banco de Dados
+
+Sprint 1 - Estrutura inicial e Cadastro de Chamados 
+Objetivo: Criar a estrutura do Banco de Dados, implementar o cadastro basico de chamados e iniciar a crição da interface.
+Banco de Dados: 
+- Modelar tabelas de usuarios, tecnicos e chamados.
+- Realizar a criação no SQL Server.
+
+Interface:
+- Criar layout (Desktop).
+
+Gerenciamento de Chamados:
+- Criar tela de cadastro de chamado.
+- Criar API de cadastro de chamado.
+
+Testes:
+- Inciar testes unitários para o cadastro.
+
+Sprint 2 - 
+
+Sprint 3 - 
+
+Sprint 4 - 
+
+Sprint 5 - 
