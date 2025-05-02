@@ -4,6 +4,19 @@ Bem-vindo à documentação do **TechHelp-AI**! Aqui você encontrará todos os 
 
 ---
 
+## 🎯 Objetivo do Projeto
+Desenvolver uma aplicação desktop que permita aos colaboradores abrir chamados de suporte técnico, os quais são analisados pela IA para sugerir soluções imediatas ou encaminhar ao técnico responsável. O sistema possibilita o acompanhamento dos chamados, o registro das soluções e a geração de relatórios gerenciais.
+
+---
+
+## 💻 Tecnologias Utilizadas
+
+- **SQL Server** – Banco de dados relacional
+- **UML** – Modelagem de sistema
+- **SCRUM** – Metodologia ágil utilizada no desenvolvimento
+
+---
+
 ## 🚀 O que você vai encontrar
 
 - **Diagramas de Casos de Uso** 📋: As interações entre o sistema e seus usuários.
