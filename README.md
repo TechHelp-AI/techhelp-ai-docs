@@ -11,7 +11,6 @@ Desenvolver uma aplicação desktop que permita aos colaboradores abrir chamados
 
 ## 💻 Tecnologias Utilizadas
 
-- **SQL Server** – Banco de dados relacional
 - **UML** – Modelagem de sistema
 - **SCRUM** – Metodologia ágil utilizada no desenvolvimento
 
