@@ -44,5 +44,15 @@ O projeto **TechHelp-AI** está sendo desenvolvido por uma equipe dedicada de pr
 
 ### 🧑‍💻 Lucas
 - **Função**: Backend Developer
+  
 ---
 
+## 📅 Planejamento por Sprints
+
+| **Sprint** | **Previsão** | **Status** |
+|------------|--------------|------------------------|
+| **Sprint 1** | 09/04 | Concluido |
+| **Sprint 2** | 16/04 | Concluida |
+| **Sprint 3** | 23/04 | Concluida |
+| **Sprint 4** | 30/04 | Concluida |
+| **Sprint 5** | 07/05 | Concluida |
