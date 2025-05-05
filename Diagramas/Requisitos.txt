@@ -1,0 +1,14 @@
+Requisitos Funcionais
+1.  Gerenciamento de Chamados - Usuários podem fazer o Cadastro de Chamados, consultar os chamados, atualizar os chamados e encerrar os chamados.
+2.	Classificação Automática – O sistema prioriza chamados com base no histórico e complexidade.
+3.	Encaminhamento Inteligente – O sistema direciona chamados ao técnico adequado.
+4.	Sugestão de Soluções – A IA recomenda soluções antes do chamado ser aberto.
+5.	Notificações – Usuários recebem alertas sobre mudanças no status do chamado.
+6.	Relatórios – Administrador pode visualizar métricas de desempenho.
+
+Requisitos Não Funcionais 
+1.	Ajuda(Manual de Usuário) - O manual deverá conter tutoriais de passo a passo para cada funcionalidade.
+2.	Segurança – Dados criptografados.
+3.	Logs e Auditoria – Registro de todas as alterações nos chamados.
+4.  Implementação de testes - Realizar testes para identificar novos erros e conseguir um sistema eficiente.
+5.  Banco de Dados - Desenvolvido em SQL Server. 
